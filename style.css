@@ -1,0 +1,22 @@
+body{
+    background-size:cover;
+
+}
+.heading{
+    font-size:35px;
+    margin:0px;
+    width:100%;
+}
+#text_input{
+    width:300px;
+    height:60px;
+    border-radius: 10px;
+}
+#status,#number_of_objects{
+    font-size:20px;
+}
+canvas{
+    border-radius: 10px;
+    border:3px dotted dodgerblue;
+    margin-top:230px;
+}
